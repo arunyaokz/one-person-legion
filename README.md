@@ -35,7 +35,7 @@
 
 ### 附录
 - [附录 A　模板索引](chapters/A.md)
-- 附录 B　FAQ（撰写中）
+- [附录 B　FAQ](chapters/B.md)
 - 附录 C　致谢与来源（撰写中）
 
 ## 许可
